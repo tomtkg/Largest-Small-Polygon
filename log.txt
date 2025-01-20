@@ -1,0 +1,14 @@
+>> main
+LSP(6): 0.67498144
+LSP(7): 0.71974093
+LSP(8): 0.72686848
+LSP(9): 0.74561923
+LSP(10): 0.74913735
+Regular_polygon(6): 0.64951905
+Regular_polygon(8): 0.70710678
+Regular_polygon(10): 0.73473157
+LSP(4)_square: 0.50000000
+LSP(4)_kite: 0.50000000
+LSP(4)_orthodiagonal_trapezoid: 0.50000000
+LSP(4)_orthodiagonal_quadrilateral: 0.50000000
+>> 
