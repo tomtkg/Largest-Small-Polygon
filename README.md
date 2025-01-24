@@ -33,4 +33,5 @@ To execute this script, the [Optimization Toolbox](https://www.mathworks.com/hel
 |LSP(6) with distance|LSP(7) with distance|LSP(8) with distance|
 
 # Related articles
-* [2点間の距離が1以下で面積が最大となる多角形 LSP]()
+* [2点間の距離が1以下で面積が最大となる多角形 LSP](https://qiita.com/tomtkg/items/55ccaa24c04c22d5baa9)
+* [Largest Small n-Polygons 生成プログラムの紹介](https://qiita.com/tomtkg/items/e316ba5766e3e6ca8125)
