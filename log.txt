@@ -19,4 +19,10 @@ LSP(4)_square: 0.50000000
 LSP(4)_kite: 0.50000000
 LSP(4)_orthodiagonal_trapezoid: 0.50000000
 LSP(4)_orthodiagonal_quadrilateral: 0.50000000
+GBLH-(0): 0.50000000
+GBLH-(1): 0.57799497
+GBLH-(2): 0.63676734
+GBLH-(3): 0.67078784
+GBLH-(4): 0.66600747
+GBLH-(5): 0.50000000
 >> 
