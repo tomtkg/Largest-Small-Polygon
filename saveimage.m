@@ -1,11 +1,11 @@
 function saveimage(X, name)
-    figure('Position', [0 0 150 150], 'Visible', 'off');
+    figure('Position', [200 200 350 350], 'Visible', 'off');
     set(gca,'Fontname','Times New Roman','FontSize',10,'NextPlot','add', ...
         'Color','w','Box','on','LooseInset',get(gca,'TightInset'));
 
     axis square; grid on;
-    xlim([-.52 .52]); xticks(-.5 : .1 : .5);
-    ylim([-.52 .52]); yticks(-.5 : .1 : .5);
+    xlim([-0.52 0.52]); xticks(-0.5 : 0.1 : 0.5);
+    ylim([-0.52 0.52]); yticks(-0.5 : 0.1 : 0.5);
     
     n = height(X);
     G = graph(1:n, [2:n 1]);
