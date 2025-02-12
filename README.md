@@ -1,4 +1,9 @@
 # Largest Small Polygon (LSP)
+
+![](https://img.shields.io/github/languages/top/tomtkg/Largest-Small-Polygon)
+![](https://img.shields.io/github/languages/code-size/tomtkg/Largest-Small-Polygon)
+![](https://img.shields.io/github/last-commit/tomtkg/Largest-Small-Polygon)
+
 Generate largest small $n$-polygons.
 
 Largest Small Polygon (LSP) or largest small $n$-polygons or the biggest little polygon is the $n$-sided polygon that has diameter one (that is, every two of its points are within unit distance of each other) and that has the largest area among all diameter-one-$n$-gons. (from [wikipedia](https://en.wikipedia.org/wiki/Biggest_little_polygon))
